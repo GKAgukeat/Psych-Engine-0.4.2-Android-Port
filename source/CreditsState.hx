@@ -46,9 +46,12 @@ class CreditsState extends MusicBeatState
 		add(grpOptions);
 
 		var pisspoop = [ //Name - Icon name - Description - Link - BG Color
-			['Sunday Night Suicide by'],
-			['Keith NAO oficial',		    'majigsaw',		    'Main Coder of The Port',	 'https://www.youtube.com/channel/UC2Sk7vtPzOvbVzdVTWrribQ',	'0xFFC30085'],
-			['MayMays4Days (The Mayz)',		    'bubba',		    'Main Coder of The Mod',	 'https://youtube.com/channel/UC5LWfrKwqWXLxgr_yVddFNQ',	'0xFFC30085'],
+			['PE Android Mod pack by:'],
+			['Keith NAO oficial',		    'majigsaw',		    'Main Coder of The Port',	 'm',	'0xFFC30085'],
+			['Geometry Icont',		    'bubba',		    'Main Coder of The Assets',	 'm'],
+			['GKA',		    'evilsk8r',		    'Main Coder of The Manifest Files',	 'm',	'0xFFC30085'],
+			['Friday Night Modder',		    'kviks',		    'Main Coder of The Weeks',	 'm'],
+
 		];
 
 		for(i in pisspoop){
