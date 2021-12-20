@@ -47,20 +47,13 @@ class CreditsState extends MusicBeatState
 
 		var pisspoop = [ //Name - Icon name - Description - Link - BG Color
 			['Sunday Night Suicide By'],
-			['The Mayz',		    'ninjamuffin99',		    'Main Coder of The Mod',	 'm',	'0xFFC30085'],
-			['Sonic Boi For Life',		    'phantomarcade',		    'Main Coder of The Soucre',	 'm',	'0xFFC30085'],
+			['The Mayz',		    'maymays4days',		    'Main Coder of The Mod',	 'm',	'0xFFC30085'],
+			['Sonic Boi For Life',		    'sonicboiforlife',		    'Main Coder of The Soucre',	 'm',	'0xFFC30085'],
 			['Support By'],
-			['Keith NAO oficial',		    'majigsaw',		    'Main Coder of The Android Port',	 'm',	'0xFFC30085'],
-			['Geometry Icont',		    'bubba',		    'Main Coder of The Assets',	 'm', '0xFFC30085'],
-			['GKA',		    'evilsk8r',		    'Main Coder of The Manifest Files',	 'm',	'0xFFC30085'],
-			['Friday Night Modder',		    'kawaisprite',		    'Main Coder of The Weeks',	 'm', '0xFFC30085'],
-			['Everyone'],
-			['The Mayz',		    'ninjamuffin99',		    'Main Coder of The Mod',	 'm',	'0xFFC30085'],
-			['Sonic Boi For Life',		    'phantomarcade',		    'Main Coder of The Soucre',	 'm',	'0xFFC30085'],
-			['Keith NAO oficial',		    'majigsaw',		    'Main Coder of The Android Port',	 'm',	'0xFFC30085'],
-			['Geometry Icont',		    'bubba',		    'Main Coder of The Assets',	 'm', '0xFFC30085'],
-			['GKA',		    'evilsk8r',		    'Main Coder of The Manifest Files',	 'm',	'0xFFC30085'],
-			['Friday Night Modder',		    'kawaisprite',		    'Main Coder of The Weeks',	 'm', '0xFFC30085'],
+			['Keith NAO oficial',		    'keithnaooficual',		    'Main Coder of The Android Port',	 'm',	'0xFFC30085'],
+			['Geometry Icont',		    'geometryicont',		    'Main Coder of The Assets',	 'm', '0xFFC30085'],
+			['GKA YT',		    'gka',		    'Main Coder of The Manifest Files',	 'm',	'0xFFC30085'],
+			['Friday Night Modder',		    'fridaynightmodder',		    'Main Coder of The Weeks',	 'm', '0xFFC30085'],
 
 		];
 
