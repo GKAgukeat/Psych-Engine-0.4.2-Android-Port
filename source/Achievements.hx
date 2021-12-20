@@ -12,12 +12,8 @@ using StringTools;
 class Achievements {
 	public static var achievementsStuff:Array<Dynamic> = [ //Name, Description, Achievement save tag, Hidden achievement
 		["Freaky on a Friday Night",	"Play on a Friday... Night.",						'friday_night_play',	 true],
-		["Mod 1",		"Beat Week1 on Hard With No Misses.",				'week1_nomiss',			false],
-		["Mod 2",				"Beat The Week2 on Hard with no Misses.",				'week2_nomiss',			false],
-		["Mod 3",			"Beat Week3 on Hard with no Misses.",				'week3_nomiss',			false],
-		["Mod 4",					"Beat Week4 on Hard with no Misses.",				'week4_nomiss',			false],
-		["Mod 5",			"Beat Week5 on Hard with no Misses.",				'week5_nomiss',			false],
-		["Mod 6",					"Beat Week 6 on Hard with no Misses.",				'week6_nomiss',			false],
+		["The Sights of the Hell",		"Beat Sadmouse Week on Hard With No Misses.",				'week1_nomiss',			false],
+		["The Second Sights of the Hell",				"Beat The Second Sadmouse Week on Hard with no Misses.",				'week2_nomiss',			false],
 		["Oh My Guh, I Am Bad At This!",	"Complete a Song with a rating lower than 20%.",	'ur_bad',				true],
 		["Oh My Guh, I Am God At This!",				"Complete a Song with a rating of 100%.",			'ur_good',				true],
 		["I Guess I Am Holding This Note A Loot...",		"Hold down a note for 20 seconds.",					'oversinging',			true],
